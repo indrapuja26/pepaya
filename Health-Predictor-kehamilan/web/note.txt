@@ -1,0 +1,11 @@
+Fatal Health Prediction User Guidance :
+
+Pre-requisites :
+Terinstall python
+Memiliki library numpy, sklearn, flask , pandas , dan joblib
+
+Tata cara penggunaan :
+1. Buka cmd pada folder tempat file diekstrak
+2. Run di cmd python app.py
+3. Link Html akan muncul silahkan mengakses link yang 
+tersedia pada cmd tersebut
